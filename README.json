@@ -1,0 +1,612 @@
+{
+  "items": [
+    {
+      "description": "ODE Networks are a kind of continuous-depth neural network. Instead of specifying a discrete sequence of hidden layers, they parameterize the derivative of the hidden state using a neural network. The output of the network is computed using a black-box differential equation solver. These continuous-depth models have constant memory cost, adapt their evaluation strategy to each input, and can explicitly trade numerical precision for speed.",
+      "items": [],
+      "title": "Neural Ordinary Differential Equations"
+    },
+    {
+      "description": "Value Iteration Networks are very deep networks that have tied weights and perform approximate value iteration. They are used as an internal (model-based) planning module.",
+      "items": [],
+      "title": "Value Iteration Networks"
+    },
+    {
+      "description": "Densely Connected Convolutional Networks are very deep neural networks consisting of dense blocks. Within dense blocks, each layer receives the feature maps of all preceding layers. This leverages feature reuse and thus substantially reduces the model size (parameters).",
+      "items": [],
+      "title": "Densely Connected Convolutional Networks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keras Implementation",
+          "description": "by tdeboissiere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-23T10:03:46Z",
+            "owner": "tdeboissiere",
+            "repo": "DeepLearningImplementations",
+            "stars": 1811
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lasagne Implementation",
+          "description": "by Jan Schlüter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-15T18:54:49Z",
+            "owner": "Lasagne",
+            "repo": "Recipes",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch Implementation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-08-16T19:33:50Z",
+            "owner": "bamos",
+            "repo": "densenet.pytorch",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow Implementation",
+          "description": "by Yixuan Li.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-07T17:47:07Z",
+            "owner": "YixuanLi",
+            "repo": "densenet-tensorflow",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch Implementation (including BC structures)",
+          "description": "by Andreas Veit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-28T20:18:29Z",
+            "owner": "andreasveit",
+            "repo": "densenet-pytorch",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authors' Caffe Implementation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-11T21:47:41Z",
+            "owner": "liuzhuang13",
+            "repo": "DenseNetCaffe",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow Implementation",
+          "description": "by Laurent Mazare.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-30T23:44:46Z",
+            "owner": "LaurentMazare",
+            "repo": "deep-models",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainer Implementation",
+          "description": "by Yasunori Kudo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-15T10:50:27Z",
+            "owner": "yasunorikudo",
+            "repo": "chainer-DenseNet",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keras Implementation",
+          "description": "by Roberto de Moura Estevão Filho.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-03-24T19:46:16Z",
+            "owner": "robertomest",
+            "repo": "convnet-study",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authors' more memory-efficient Torch Implementation",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-05-11T20:06:43Z",
+            "owner": "gaohuang",
+            "repo": "DenseNet_lite",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainer Implementation",
+          "description": "by Toshinori Hanya.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-12T14:41:27Z",
+            "owner": "t-hanya",
+            "repo": "chainer-DenseNet",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Implementations"
+    },
+    {
+      "description": "Deep Residual Networks are a family of extremely deep architectures (up to 1000 layers) showing compelling accuracy and nice convergence behaviors. Instead of learning a new representation at each layer, deep residual networks use identity mappings to learn residuals.",
+      "items": [],
+      "title": "Deep Residual Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Residual Learning for Image Recognition (2015)",
+          "description": "[original code], original paper introducing residual neural networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-28T15:26:22Z",
+            "owner": "KaimingHe",
+            "repo": "deep-residual-networks",
+            "stars": 6750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squeeze-and-Excitation Networks",
+          "description": "[original code], introduces Squeeze-and-Excitation (SE) block, that adaptively recalibrates channel-wise feature responses. It achieved the 1st place on ILSVRC17.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2019-02-25T08:41:20Z",
+            "owner": "hujie-frank",
+            "repo": "SENet",
+            "stars": 3644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wide Residual Networks (2016)",
+          "description": "[orginal code], studies wide residual neural networks and shows that making residual blocks wider outperforms deeper and thinner network architectures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2019-08-20T08:37:42Z",
+            "owner": "szagoruyko",
+            "repo": "wide-residual-networks",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Identity Mappings in Deep Residual Networks (2016)",
+          "description": "[original code], improving the original proposed residual units by reordering batchnorm and activation layers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-05-24T17:35:48Z",
+            "owner": "KaimingHe",
+            "repo": "resnet-1k-layers",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Networks with Stochastic Depth (2016)",
+          "description": "[original code], dropout with residual layers as regularizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2018-08-13T22:51:19Z",
+            "owner": "yueatsprograms",
+            "repo": "Stochastic_Depth",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Reversible Residual Network: Backpropagation Without Storing Activations",
+          "description": "[code] constructs reversible residual layers (no need to store activations) and surprisingly finds out that reversible layers don't impact final performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-19T03:52:54Z",
+            "owner": "renmengye",
+            "repo": "revnet-public",
+            "stars": 362
+          }
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tensorflow with skflow, with MNIST: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:07:35Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 196986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow with tflearn, with CIFAR-10 and MNIST: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T11:34:20Z",
+            "owner": "tflearn",
+            "repo": "tflearn",
+            "stars": 9577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neon, Preactivation layer implementation: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-12-23T01:21:42Z",
+            "owner": "NervanaSystems",
+            "repo": "neon",
+            "stars": 3862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch by Facebook AI Research (FAIR), with training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet: blog",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2022-08-24T15:23:59Z",
+            "owner": "facebookarchive",
+            "repo": "fb.resnet.torch",
+            "stars": 2362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResNet in TensorFlow 0.9+ with pretrained caffe weights: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2018-06-16T02:54:27Z",
+            "owner": "ry",
+            "repo": "tensorflow-resnet",
+            "stars": 1665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lasagne, CIFAR-10, with ResNet-32 and ResNet-56 and training code: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-15T18:54:49Z",
+            "owner": "Lasagne",
+            "repo": "Recipes",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch, CIFAR-10, with ResNet-20 to ResNet-110, training code, and curves: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-03-16T23:07:09Z",
+            "owner": "gcr",
+            "repo": "torch-residual-networks",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResNet in PyTorch: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-06T01:49:25Z",
+            "owner": "ruotianluo",
+            "repo": "pytorch-resnet",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neon, CIFAR-10, with pre-trained ResNet-32 to ResNet-110 models, training code, and curves: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-03T22:54:19Z",
+            "owner": "NervanaSystems",
+            "repo": "ModelZoo",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A winning entry in Kaggle's right whale recognition challenge: blog",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-16T09:23:32Z",
+            "owner": "felixlaumon",
+            "repo": "kaggle-right-whale",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stochastic dropout in Keras: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-21T06:49:00Z",
+            "owner": "dblN",
+            "repo": "stochastic_depth_keras",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wide Residual Networks in Keras: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-18T22:48:51Z",
+            "owner": "asmith26",
+            "repo": "wide_resnets_keras",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ladder Network for Semi-Supervised Learning in Keras : code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-30T09:58:08Z",
+            "owner": "divamgupta",
+            "repo": "ladder_network_keras",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResNet in Chainer: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-27T10:26:43Z",
+            "owner": "yasunorikudo",
+            "repo": "chainer-ResNet",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stochastic dropout in Chainer: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-04-11T02:56:22Z",
+            "owner": "yasunorikudo",
+            "repo": "chainer-ResDrop",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch, MNIST, 100 layers: blog",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-01-10T17:26:50Z",
+            "owner": "arunpatala",
+            "repo": "residual.mnist",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neon, Place2 (mini), 40 layers: blog",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-02-05T00:18:44Z",
+            "owner": "hunterlang",
+            "repo": "mpmz",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Implementations"
+    },
+    {
+      "description": "Highway Networks take inspiration from Long Short Term Memory (LSTM) and allow training of deep, efficient networks (with hundreds of layers) with conventional gradient-based methods",
+      "items": [],
+      "title": "Highway Networks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lasagne: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-26T02:58:32Z",
+            "owner": "Lasagne",
+            "repo": "Lasagne",
+            "stars": 3859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2016-08-24T12:53:43Z",
+            "owner": "yoonkim",
+            "repo": "lstm-char-cnn",
+            "stars": 837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caffe: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-09-20T14:58:09Z",
+            "owner": "flukeskywalker",
+            "repo": "highway-networks",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow: blog",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-18T22:27:07Z",
+            "owner": "fomorians",
+            "repo": "highway-cnn",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch: code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-04-05T15:23:09Z",
+            "owner": "c0nn3r",
+            "repo": "pytorch_highway_networks",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Implementations"
+    },
+    {
+      "description": "Theories in very deep learning concentrate on the ideas that very deep networks with skip connections are able to efficiently approximate recurrent computations (similar to the recurrent connections in the visual cortex) or are actually exponential ensembles of shallow networks",
+      "items": [],
+      "title": "Very Deep Learning Theory"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:17:52.587Z",
+    "original_repository": "daviddao/awesome-very-deep-learning",
+    "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
+    "enhanced_repository": "enhansome/enhansome-very-deep-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome very deep learning with stars"
+  }
+}
