@@ -29,7 +29,7 @@
             "last_commit": "2020-10-23T10:03:46Z",
             "owner": "tdeboissiere",
             "repo": "DeepLearningImplementations",
-            "stars": 1811
+            "stars": 1812
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2017-10-28T15:26:22Z",
             "owner": "KaimingHe",
             "repo": "deep-residual-networks",
-            "stars": 6750
+            "stars": 6751
           }
         },
         {
@@ -281,10 +281,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T07:01:17Z",
+            "last_commit": "2026-08-14T06:52:42Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 196989
+            "stars": 197012
           }
         },
         {
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:01:56.071Z",
+    "last_updated": "2026-08-14T06:58:37.142Z",
     "original_repository": "daviddao/awesome-very-deep-learning",
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
     "enhanced_repository": "enhansome/enhansome-very-deep-learning",
