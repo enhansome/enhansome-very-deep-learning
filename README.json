@@ -281,10 +281,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T03:31:26Z",
+            "last_commit": "2026-08-17T05:43:19Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197047
+            "stars": 197098
           }
         },
         {
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T06:00:21.219Z",
+    "last_updated": "2026-08-17T06:04:16.275Z",
     "original_repository": "daviddao/awesome-very-deep-learning",
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
     "enhanced_repository": "enhansome/enhansome-very-deep-learning",
