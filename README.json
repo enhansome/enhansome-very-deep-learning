@@ -208,7 +208,7 @@
             "last_commit": "2019-02-25T08:41:20Z",
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3644
+            "stars": 3645
           }
         },
         {
@@ -281,10 +281,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T05:50:12Z",
+            "last_commit": "2026-08-19T05:53:59Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197024
+            "stars": 197054
           }
         },
         {
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:00:20.866Z",
+    "last_updated": "2026-08-19T06:01:25.833Z",
     "original_repository": "daviddao/awesome-very-deep-learning",
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
     "enhanced_repository": "enhansome/enhansome-very-deep-learning",
