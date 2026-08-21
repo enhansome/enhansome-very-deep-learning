@@ -41,7 +41,7 @@
 
 1. [Keras Implementation](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet) ⭐ 1,812 | 🐛 24 | 🌐 Python | 📅 2020-10-23 by tdeboissiere.
 2. [Lasagne Implementation](https://github.com/Lasagne/Recipes/tree/master/papers/densenet) ⭐ 935 | 🐛 37 | 🌐 Python | 📅 2022-10-15 by Jan Schlüter.
-3. [PyTorch Implementation](https://github.com/bamos/densenet.pytorch) ⭐ 838 | 🐛 7 | 🌐 Python | 📅 2018-08-16
+3. [PyTorch Implementation](https://github.com/bamos/densenet.pytorch) ⭐ 839 | 🐛 7 | 🌐 Python | 📅 2018-08-16
 4. [Tensorflow Implementation](https://github.com/YixuanLi/densenet-tensorflow) ⭐ 563 | 🐛 10 | 🌐 Python | 📅 2019-05-07 by Yixuan Li.
 5. [PyTorch Implementation (including BC structures)](https://github.com/andreasveit/densenet-pytorch) ⭐ 486 | 🐛 6 | 🌐 Python | 📅 2018-02-28 by Andreas Veit
 6. Authors' [Caffe Implementation](https://github.com/liuzhuang13/DenseNetCaffe) ⭐ 267 | 🐛 9 | 🌐 Python | 📅 2017-08-11
@@ -60,7 +60,7 @@
 * [Deep Residual Learning for Image Recognition (2015)](http://arxiv.org/abs/1512.03385) \[[original code](https://github.com/KaimingHe/deep-residual-networks) ⭐ 6,752 | 🐛 58 | 📅 2017-10-28], original paper introducing residual neural networks
 * [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) \[[original code](https://github.com/hujie-frank/SENet) ⭐ 3,645 | 🐛 16 | 🌐 Cuda | 📅 2019-02-25], introduces Squeeze-and-Excitation (SE) block, that adaptively recalibrates channel-wise feature responses. It achieved the 1st place on ILSVRC17.
 * [Wide Residual Networks (2016)](http://arxiv.org/abs/1605.07146) \[[orginal code](https://github.com/szagoruyko/wide-residual-networks) ⭐ 1,315 | 🐛 24 | 🌐 Lua | 📅 2019-08-20], studies wide residual neural networks and shows that making residual blocks wider outperforms deeper and thinner network architectures
-* [Identity Mappings in Deep Residual Networks (2016)](http://arxiv.org/abs/1603.05027) \[[original code](https://github.com/KaimingHe/resnet-1k-layers) ⭐ 937 | 🐛 1 | 🌐 Lua | 📅 2017-05-24], improving the original proposed residual units by reordering batchnorm and activation layers
+* [Identity Mappings in Deep Residual Networks (2016)](http://arxiv.org/abs/1603.05027) \[[original code](https://github.com/KaimingHe/resnet-1k-layers) ⭐ 936 | 🐛 1 | 🌐 Lua | 📅 2017-05-24], improving the original proposed residual units by reordering batchnorm and activation layers
 * [Deep Networks with Stochastic Depth (2016)](http://arxiv.org/abs/1603.09382) \[[original code](https://github.com/yueatsprograms/Stochastic_Depth) ⭐ 480 | 🐛 1 | 🌐 Lua | 📅 2018-08-13], dropout with residual layers as regularizer
 * [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585v1) \[[code](https://github.com/renmengye/revnet-public) ⭐ 362 | 🐛 5 | 🌐 Python | 📅 2018-06-19] constructs reversible residual layers (no need to store activations) and surprisingly finds out that reversible layers don't impact final performance.
 * [Aggregated Residual Transformation for Deep Neural Networks (2016)](https://arxiv.org/abs/1611.05431), introduces ResNeXt, which aggregates a set of transformations within a a res-block. It achieved the 2nd place on ILSVRC16.
@@ -70,7 +70,7 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 197,071 | 🐛 3,104 | 🌐 C++ | 📅 2026-08-20
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 197,211 | 🐛 2,937 | 🌐 C++ | 📅 2026-08-21
 2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,575 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

@@ -47,7 +47,7 @@
                 "last_commit": "2018-08-16T19:33:50Z",
                 "owner": "bamos",
                 "repo": "densenet.pytorch",
-                "stars": 838
+                "stars": 839
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2017-05-24T17:35:48Z",
                 "owner": "KaimingHe",
                 "repo": "resnet-1k-layers",
-                "stars": 937
+                "stars": 936
               }
             },
             {
@@ -289,10 +289,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-20T05:51:40Z",
+                "last_commit": "2026-08-21T06:00:07Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197071
+                "stars": 197211
               }
             },
             {
@@ -633,7 +633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:01:50.797Z",
+    "last_updated": "2026-08-21T06:03:08.257Z",
     "original_repository": "daviddao/awesome-very-deep-learning",
     "original_repository_id": 55538924,
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
