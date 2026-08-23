@@ -19,7 +19,7 @@
 
 ### Implementations
 
-1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,522 | 🐛 181 | 🌐 Python | 📅 2026-08-17
+1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,520 | 🐛 181 | 🌐 Python | 📅 2026-08-17
 
 ## Value Iteration Networks
 
@@ -70,7 +70,7 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 197,213 | 🐛 2,909 | 🌐 C++ | 📅 2026-08-22
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 197,360 | 🐛 2,935 | 🌐 C++ | 📅 2026-08-23
 2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,575 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
