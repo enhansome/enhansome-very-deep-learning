@@ -1,8 +1,80 @@
 {
   "items": [
     {
+      "description": "ODE Networks are a kind of continuous-depth neural network. Instead of specifying a discrete sequence of hidden layers, they parameterize the derivative of the hidden state using a neural network. The output of the network is computed using a black-box differential equation solver. These continuous-depth models have constant memory cost, adapt their evaluation strategy to each input, and can explicitly trade numerical precision for speed.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neural Ordinary Differential Equations (2018)",
+              "description": "[original code], introduces several ODENets such as continuous-depth residual networks and continuous-time latent variable models. The paper also constructs continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, the authors show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models. NIPS 2018 best paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157588610,
+                "language": "Python",
+                "last_commit": "2025-04-04T01:06:00Z",
+                "owner": "rtqichen",
+                "repo": "torchdiffeq",
+                "stars": 6476
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Papers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Authors Autograd Implementation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27082457,
+                "language": "Python",
+                "last_commit": "2026-08-17T18:52:38Z",
+                "owner": "HIPS",
+                "repo": "autograd",
+                "stars": 7524
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Implementations"
+        }
+      ],
+      "title": "Neural Ordinary Differential Equations"
+    },
+    {
       "description": "Densely Connected Convolutional Networks are very deep neural networks consisting of dense blocks. Within dense blocks, each layer receives the feature maps of all preceding layers. This leverages feature reuse and thus substantially reduces the model size (parameters).",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Densely Connected Convolutional Networks (2016)",
+              "description": "[original code], introduces DenseNets and shows that it outperforms ResNets in CIFAR10 and 100 by a large margin (especially when not using data augmentation), while only requiring half the parameters. CVPR 2017 best paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66501243,
+                "language": "Lua",
+                "last_commit": "2024-01-09T13:15:40Z",
+                "owner": "liuzhuang13",
+                "repo": "DenseNet",
+                "stars": 4869
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Papers"
+        },
         {
           "children": [
             {
@@ -289,10 +361,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-24T06:09:38Z",
+                "last_commit": "2026-08-24T14:22:47Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197378
+                "stars": 197385
               }
             },
             {
@@ -337,7 +409,7 @@
                 "last_commit": "2022-08-24T15:23:59Z",
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2361
+                "stars": 2360
               }
             },
             {
@@ -550,6 +622,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Recurrent Highway Networks (2016)",
+              "description": "[original code], introducing recurrent highway networks, which increases space depth in recurrent networks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70242931,
+                "language": "Python",
+                "last_commit": "2019-10-09T11:40:02Z",
+                "owner": "jzilly",
+                "repo": "RecurrentHighwayNetworks",
+                "stars": 403
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Papers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Lasagne: code",
               "description": null,
               "children": [],
@@ -633,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:23:16.476Z",
+    "last_updated": "2026-08-24T14:26:40.560Z",
     "original_repository": "daviddao/awesome-very-deep-learning",
     "original_repository_id": 55538924,
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
