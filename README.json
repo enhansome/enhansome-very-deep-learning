@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 27082457,
                 "language": "Python",
-                "last_commit": "2026-08-17T18:52:38Z",
+                "last_commit": "2026-08-24T18:24:36Z",
                 "owner": "HIPS",
                 "repo": "autograd",
                 "stars": 7524
@@ -361,10 +361,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:22:47Z",
+                "last_commit": "2026-08-25T06:06:12Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197385
+                "stars": 197613
               }
             },
             {
@@ -379,7 +379,7 @@
                 "last_commit": "2024-05-06T11:34:20Z",
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9575
+                "stars": 9576
               }
             },
             {
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:40.560Z",
+    "last_updated": "2026-08-25T06:15:33.570Z",
     "original_repository": "daviddao/awesome-very-deep-learning",
     "original_repository_id": 55538924,
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
