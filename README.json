@@ -17,7 +17,7 @@
                 "last_commit": "2025-04-04T01:06:00Z",
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6476
+                "stars": 6477
               }
             }
           ],
@@ -267,7 +267,7 @@
                 "last_commit": "2017-10-28T15:26:22Z",
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6752
+                "stars": 6753
               }
             },
             {
@@ -361,10 +361,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:06:12Z",
+                "last_commit": "2026-08-26T05:46:42Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197613
+                "stars": 197638
               }
             },
             {
@@ -632,7 +632,7 @@
                 "last_commit": "2019-10-09T11:40:02Z",
                 "owner": "jzilly",
                 "repo": "RecurrentHighwayNetworks",
-                "stars": 403
+                "stars": 404
               }
             }
           ],
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:15:33.570Z",
+    "last_updated": "2026-08-26T06:04:42.444Z",
     "original_repository": "daviddao/awesome-very-deep-learning",
     "original_repository_id": 55538924,
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
