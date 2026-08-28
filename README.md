@@ -19,7 +19,7 @@
 
 ### Implementations
 
-1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,523 | 🐛 181 | 🌐 Python | 📅 2026-08-24
+1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,524 | 🐛 181 | 🌐 Python | 📅 2026-08-24
 
 ## Value Iteration Networks
 
@@ -70,7 +70,7 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 197,729 | 🐛 2,926 | 🌐 C++ | 📅 2026-08-27
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 197,765 | 🐛 2,955 | 🌐 C++ | 📅 2026-08-28
 2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,576 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
@@ -101,7 +101,7 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ### Implementations
 
-1. Lasagne: [code](https://github.com/Lasagne/Lasagne/blob/highway_example/examples/Highway%20Networks.ipynb) ⭐ 3,857 | 🐛 139 | 🌐 Python | 📅 2022-03-26
+1. Lasagne: [code](https://github.com/Lasagne/Lasagne/blob/highway_example/examples/Highway%20Networks.ipynb) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26
 2. Torch: [code](https://github.com/yoonkim/lstm-char-cnn/blob/master/model/HighwayMLP.lua) ⭐ 837 | 🐛 15 | 🌐 Lua | 📅 2016-08-24
 3. Caffe: [code](https://github.com/flukeskywalker/highway-networks) ⭐ 96 | 🐛 2 | 🌐 C++ | 📅 2015-09-20
 4. Tensorflow: [blog](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.r2msk226f), [code](https://github.com/fomorians/highway-cnn) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2016-09-18
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

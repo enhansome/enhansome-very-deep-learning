@@ -18,7 +18,8 @@
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6477
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-24T18:24:36Z",
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7523
-              }
+                "stars": 7524
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": null,
@@ -68,7 +70,8 @@
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
                 "stars": 4869
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": null,
@@ -90,7 +93,8 @@
                 "owner": "tdeboissiere",
                 "repo": "DeepLearningImplementations",
                 "stars": 1812
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -105,7 +109,8 @@
                 "owner": "Lasagne",
                 "repo": "Recipes",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -120,7 +125,8 @@
                 "owner": "bamos",
                 "repo": "densenet.pytorch",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -135,7 +141,8 @@
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -150,7 +157,8 @@
                 "owner": "andreasveit",
                 "repo": "densenet-pytorch",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "liuzhuang13",
                 "repo": "DenseNetCaffe",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "LaurentMazare",
                 "repo": "deep-models",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "yasunorikudo",
                 "repo": "chainer-DenseNet",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "robertomest",
                 "repo": "convnet-study",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "gaohuang",
                 "repo": "DenseNet_lite",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "t-hanya",
                 "repo": "chainer-DenseNet",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": null,
@@ -268,7 +282,8 @@
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
                 "stars": 6753
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -283,7 +298,8 @@
                 "owner": "hujie-frank",
                 "repo": "SENet",
                 "stars": 3646
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -298,7 +314,8 @@
                 "owner": "szagoruyko",
                 "repo": "wide-residual-networks",
                 "stars": 1315
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -313,7 +330,8 @@
                 "owner": "KaimingHe",
                 "repo": "resnet-1k-layers",
                 "stars": 936
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -328,7 +346,8 @@
                 "owner": "yueatsprograms",
                 "repo": "Stochastic_Depth",
                 "stars": 480
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -343,7 +362,8 @@
                 "owner": "renmengye",
                 "repo": "revnet-public",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": null,
@@ -361,11 +381,12 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-27T16:47:13Z",
+                "last_commit": "2026-08-28T17:37:16Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197729
-              }
+                "stars": 197765
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -380,7 +401,8 @@
                 "owner": "tflearn",
                 "repo": "tflearn",
                 "stars": 9576
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -395,7 +417,8 @@
                 "owner": "NervanaSystems",
                 "repo": "neon",
                 "stars": 3861
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -410,7 +433,8 @@
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
                 "stars": 2360
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -425,7 +449,8 @@
                 "owner": "ry",
                 "repo": "tensorflow-resnet",
                 "stars": 1665
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -440,7 +465,8 @@
                 "owner": "Lasagne",
                 "repo": "Recipes",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -455,7 +481,8 @@
                 "owner": "gcr",
                 "repo": "torch-residual-networks",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -470,7 +497,8 @@
                 "owner": "ruotianluo",
                 "repo": "pytorch-resnet",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -485,7 +513,8 @@
                 "owner": "NervanaSystems",
                 "repo": "ModelZoo",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -500,7 +529,8 @@
                 "owner": "felixlaumon",
                 "repo": "kaggle-right-whale",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -515,7 +545,8 @@
                 "owner": "dblN",
                 "repo": "stochastic_depth_keras",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -530,7 +561,8 @@
                 "owner": "asmith26",
                 "repo": "wide_resnets_keras",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -545,7 +577,8 @@
                 "owner": "divamgupta",
                 "repo": "ladder_network_keras",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -560,7 +593,8 @@
                 "owner": "yasunorikudo",
                 "repo": "chainer-ResNet",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -575,7 +609,8 @@
                 "owner": "yasunorikudo",
                 "repo": "chainer-ResDrop",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -590,7 +625,8 @@
                 "owner": "arunpatala",
                 "repo": "residual.mnist",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -605,7 +641,8 @@
                 "owner": "hunterlang",
                 "repo": "mpmz",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": "In addition, this code by Ryan Dahl helps to convert the pre-trained models to TensorFlow.",
@@ -633,7 +670,8 @@
                 "owner": "jzilly",
                 "repo": "RecurrentHighwayNetworks",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": null,
@@ -654,8 +692,9 @@
                 "last_commit": "2022-03-26T02:58:32Z",
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3857
-              }
+                "stars": 3858
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -670,7 +709,8 @@
                 "owner": "yoonkim",
                 "repo": "lstm-char-cnn",
                 "stars": 837
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -685,7 +725,8 @@
                 "owner": "flukeskywalker",
                 "repo": "highway-networks",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -700,7 +741,8 @@
                 "owner": "fomorians",
                 "repo": "highway-cnn",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             },
             {
               "node_type": "item",
@@ -715,7 +757,8 @@
                 "owner": "c0nn3r",
                 "repo": "pytorch_highway_networks",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T17:42:14.544Z"
             }
           ],
           "description": null,
@@ -727,7 +770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:48:16.421Z",
+    "last_updated": "2026-08-28T17:42:14.544Z",
     "original_repository_info": {
       "archived": false,
       "id": 55538924,
