@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.",
+                "homepage": null,
                 "id": 157588610,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
+                "open_issues": 95,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6477
+                "stars": 6477,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -35,12 +40,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficiently computes derivatives of NumPy code.",
+                "homepage": null,
                 "id": 27082457,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:24:36Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:00:20Z",
+                "open_issues": 179,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7524
+                "stars": 7524,
+                "topics": [
+                  "autograd",
+                  "automatic-differentiation",
+                  "backpropagation",
+                  "deep-learning",
+                  "derivative",
+                  "differentiation",
+                  "jax",
+                  "machine-learning",
+                  "neural-network",
+                  "numpy",
+                  "numpy-arrays",
+                  "python",
+                  "scipy",
+                  "ufunc"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -64,12 +89,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).",
+                "homepage": null,
                 "id": 66501243,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-01-09T13:15:40Z",
+                "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4869
+                "stars": 4869,
+                "topics": [
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -87,12 +119,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of recent Deep Learning papers",
+                "homepage": null,
                 "id": 67865666,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-23T10:03:46Z",
+                "open_issues": 24,
                 "owner": "tdeboissiere",
                 "repo": "DeepLearningImplementations",
-                "stars": 1812
+                "stars": 1812,
+                "topics": [
+                  "deep-learning-papers"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -103,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lasagne recipes: examples, IPython notebooks, ...",
+                "homepage": null,
                 "id": 36010079,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-15T18:54:49Z",
+                "open_issues": 37,
                 "owner": "Lasagne",
                 "repo": "Recipes",
-                "stars": 935
+                "stars": 935,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -119,12 +163,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of DenseNet.",
+                "homepage": null,
                 "id": 81465000,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-16T19:33:50Z",
+                "open_issues": 7,
                 "owner": "bamos",
                 "repo": "densenet.pytorch",
-                "stars": 839
+                "stars": 839,
+                "topics": [
+                  "deep-learning",
+                  "densenet",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -135,12 +188,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DenseNet Implementation in Tensorflow",
+                "homepage": null,
                 "id": 68931654,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-05-07T17:47:07Z",
+                "open_issues": 10,
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
-                "stars": 563
+                "stars": 563,
+                "topics": [
+                  "densenet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -151,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch Implementation for Densely Connected Convolutional Networks (DenseNets)",
+                "homepage": null,
                 "id": 82318750,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-02-28T20:18:29Z",
+                "open_issues": 6,
                 "owner": "andreasveit",
                 "repo": "densenet-pytorch",
-                "stars": 486
+                "stars": 486,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -167,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe code for Densely Connected Convolutional Networks (DenseNets) ",
+                "homepage": null,
                 "id": 67386780,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-08-11T21:47:41Z",
+                "open_issues": 9,
                 "owner": "liuzhuang13",
                 "repo": "DenseNetCaffe",
-                "stars": 267
+                "stars": 267,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -183,12 +254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of a couple deep learning models using TensorFlow",
+                "homepage": null,
                 "id": 69911010,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-11-30T23:44:46Z",
+                "open_issues": 4,
                 "owner": "LaurentMazare",
                 "repo": "deep-models",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -199,12 +275,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Densely Connected Convolutional Network implementation by Chainer",
+                "homepage": null,
                 "id": 67282545,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-15T10:50:27Z",
+                "open_issues": 1,
                 "owner": "yasunorikudo",
                 "repo": "chainer-DenseNet",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "chainer",
+                  "densenet"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -215,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 68415717,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-03-24T19:46:16Z",
+                "open_issues": 0,
                 "owner": "robertomest",
                 "repo": "convnet-study",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -231,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A more memory efficient Torch implementation of \"Densely Connected Convolutional Networks\".",
+                "homepage": null,
                 "id": 68852101,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2017-05-11T20:06:43Z",
+                "open_issues": 0,
                 "owner": "gaohuang",
                 "repo": "DenseNet_lite",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -247,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Densely Connected Convolutional Networks by Chainer",
+                "homepage": null,
                 "id": 67271526,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-11-12T14:41:27Z",
+                "open_issues": 0,
                 "owner": "t-hanya",
                 "repo": "chainer-DenseNet",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -276,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Residual Learning for Image Recognition ",
+                "homepage": null,
                 "id": 50839932,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-10-28T15:26:22Z",
+                "open_issues": 58,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6753
+                "stars": 6753,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -292,12 +396,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Squeeze-and-Excitation Networks",
+                "homepage": null,
                 "id": 100795326,
                 "language": "Cuda",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-25T08:41:20Z",
+                "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3646
+                "stars": 3646,
+                "topics": [
+                  "caffe",
+                  "gpu",
+                  "senet"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -308,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3.8% and 18.3% on CIFAR-10 and CIFAR-100",
+                "homepage": "http://arxiv.org/abs/1605.07146",
                 "id": 59030033,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-08-20T08:37:42Z",
+                "open_issues": 24,
                 "owner": "szagoruyko",
                 "repo": "wide-residual-networks",
-                "stars": 1315
+                "stars": 1315,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -324,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Residual Networks with 1K Layers",
+                "homepage": null,
                 "id": 55462616,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2017-05-24T17:35:48Z",
+                "open_issues": 1,
                 "owner": "KaimingHe",
                 "repo": "resnet-1k-layers",
-                "stars": 936
+                "stars": 936,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -340,12 +463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Networks with Stochastic Depth",
+                "homepage": "http://arxiv.org/abs/1603.09382",
                 "id": 55261515,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2018-08-13T22:51:19Z",
+                "open_issues": 1,
                 "owner": "yueatsprograms",
                 "repo": "Stochastic_Depth",
-                "stars": 480
+                "stars": 480,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -356,12 +484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"The Reversible Residual Network: Backpropagation Without Storing Activations\"",
+                "homepage": null,
                 "id": 95688311,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-06-19T03:52:54Z",
+                "open_issues": 5,
                 "owner": "renmengye",
                 "repo": "revnet-public",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -379,12 +512,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Machine Learning Framework for Everyone",
+                "homepage": "https://tensorflow.org",
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-28T17:37:16Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:45:29Z",
+                "open_issues": 2961,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197765
+                "stars": 197767,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "machine-learning",
+                  "ml",
+                  "neural-network",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -395,12 +542,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning library featuring a higher-level API for TensorFlow.",
+                "homepage": "http://tflearn.org",
                 "id": 55147386,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-06T11:34:20Z",
+                "open_issues": 579,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9576
+                "stars": 9576,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "machine-learning",
+                  "neural-network",
+                  "tensorflow",
+                  "tflearn"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -411,12 +570,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Intel® Nervana™ reference deep learning framework committed to best performance on all hardware",
+                "homepage": "http://neon.nervanasys.com/docs/latest",
                 "id": 25280332,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-23T01:21:42Z",
+                "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3861
+                "stars": 3861,
+                "topics": [
+                  "deep-learning",
+                  "fast",
+                  "mkl",
+                  "neon",
+                  "neural-network",
+                  "performance",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -427,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts",
+                "homepage": null,
                 "id": 49527035,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-24T15:23:59Z",
+                "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2360
+                "stars": 2360,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -443,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ResNet model in TensorFlow",
+                "homepage": null,
                 "id": 48251594,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-06-16T02:54:27Z",
+                "open_issues": 38,
                 "owner": "ry",
                 "repo": "tensorflow-resnet",
-                "stars": 1665
+                "stars": 1665,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -459,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lasagne recipes: examples, IPython notebooks, ...",
+                "homepage": null,
                 "id": 36010079,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-15T18:54:49Z",
+                "open_issues": 37,
                 "owner": "Lasagne",
                 "repo": "Recipes",
-                "stars": 935
+                "stars": 935,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -475,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Torch implementation of [\"Deep Residual Learning for Image Recognition\",Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun](http://arxiv.org/abs/1512.03385) the winners of the 2015 ILSVRC and COCO challenges.",
+                "homepage": null,
                 "id": 48864932,
                 "language": "Jupyter Notebook",
+                "license": "Zlib",
                 "last_commit": "2020-03-16T23:07:09Z",
+                "open_issues": 10,
                 "owner": "gcr",
                 "repo": "torch-residual-networks",
-                "stars": 582
+                "stars": 582,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -491,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert resnet trained in caffe to pytorch model. (group norm resnet is provided too)",
+                "homepage": null,
                 "id": 81809190,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-06T01:49:25Z",
+                "open_issues": 3,
                 "owner": "ruotianluo",
                 "repo": "pytorch-resnet",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -507,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "neon model zoo",
+                "homepage": null,
                 "id": 53688234,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-03T22:54:19Z",
+                "open_issues": 14,
                 "owner": "NervanaSystems",
                 "repo": "ModelZoo",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -523,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2nd place solution to the Kaggle Right Whale challenge",
+                "homepage": null,
                 "id": 49889006,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-04-16T09:23:32Z",
+                "open_issues": 2,
                 "owner": "felixlaumon",
                 "repo": "kaggle-right-whale",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -539,12 +746,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation for \"Deep Networks with Stochastic Depth\" http://arxiv.org/abs/1603.09382",
+                "homepage": null,
                 "id": 55616394,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-21T06:49:00Z",
+                "open_issues": 2,
                 "owner": "dblN",
                 "repo": "stochastic_depth_keras",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -555,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation + pretrained weights for \"Wide Residual Networks\"",
+                "homepage": "http://arxiv.org/abs/1605.07146v1",
                 "id": 60194498,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-18T22:48:51Z",
+                "open_issues": 6,
                 "owner": "asmith26",
                 "repo": "wide_resnets_keras",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -571,12 +788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semi-Supervised Learning with Ladder Networks in Keras. Get 98% test accuracy on MNIST with just 100 labeled examples ! ",
+                "homepage": null,
                 "id": 172127300,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-30T09:58:08Z",
+                "open_issues": 6,
                 "owner": "divamgupta",
                 "repo": "ladder_network_keras",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -587,12 +809,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Residual Network implementation by Chainer",
+                "homepage": null,
                 "id": 55308530,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-27T10:26:43Z",
+                "open_issues": 2,
                 "owner": "yasunorikudo",
                 "repo": "chainer-ResNet",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "chainer",
+                  "resnet"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -603,12 +833,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Networks with Stochastic Depth implementation by Chainer",
+                "homepage": null,
                 "id": 55680096,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-04-11T02:56:22Z",
+                "open_issues": 1,
                 "owner": "yasunorikudo",
                 "repo": "chainer-ResDrop",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "chainer",
+                  "resdrop"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -619,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 49061578,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2016-01-10T17:26:50Z",
+                "open_issues": 7,
                 "owner": "arunpatala",
                 "repo": "residual.mnist",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -635,12 +878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "miniplaces2 deep residual network in neon",
+                "homepage": null,
                 "id": 51115416,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-02-05T00:18:44Z",
+                "open_issues": 0,
                 "owner": "hunterlang",
                 "repo": "mpmz",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -664,12 +912,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recurrent Highway Networks - Implementations for Tensorflow, Torch7, Theano and Brainstorm",
+                "homepage": null,
                 "id": 70242931,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-10-09T11:40:02Z",
+                "open_issues": 3,
                 "owner": "jzilly",
                 "repo": "RecurrentHighwayNetworks",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "penn-treebank",
+                  "recurrent-highway-networks",
+                  "tensorflow",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -687,12 +945,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight library to build and train neural networks in Theano",
+                "homepage": "http://lasagne.readthedocs.org/",
                 "id": 23924195,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-03-26T02:58:32Z",
+                "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3858
+                "stars": 3858,
+                "topics": [
+                  "deep-learning-library",
+                  "neural-networks",
+                  "python",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -703,12 +971,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LSTM language model with CNN over characters",
+                "homepage": null,
                 "id": 37357050,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2016-08-24T12:53:43Z",
+                "open_issues": 15,
                 "owner": "yoonkim",
                 "repo": "lstm-char-cnn",
-                "stars": 837
+                "stars": 837,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -719,12 +992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of Highway Networks in Caffe",
+                "homepage": null,
                 "id": 40502049,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2015-09-20T14:58:09Z",
+                "open_issues": 2,
                 "owner": "flukeskywalker",
                 "repo": "highway-networks",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -735,12 +1013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple convolutional highway networks using TensorFlow.",
+                "homepage": "https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa",
                 "id": 54411676,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-09-18T22:27:07Z",
+                "open_issues": 0,
                 "owner": "fomorians",
                 "repo": "highway-cnn",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             },
@@ -751,12 +1034,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Highway networks implemented in PyTorch.",
+                "homepage": null,
                 "id": 80769577,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-04-05T15:23:09Z",
+                "open_issues": 1,
                 "owner": "c0nn3r",
                 "repo": "pytorch_highway_networks",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "deep-learning",
+                  "highway-network",
+                  "neural-networks",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
             }
@@ -770,15 +1063,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:42:14.544Z",
+    "last_updated": "2026-08-29T04:46:06.333Z",
     "original_repository_info": {
       "archived": false,
+      "description": "♾A curated list of papers and code about very deep neural networks",
+      "homepage": null,
       "id": 55538924,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2020-10-13T13:11:16Z",
+      "open_issues": 1,
       "owner": "daviddao",
       "repo": "awesome-very-deep-learning",
-      "stars": 456
+      "stars": 456,
+      "topics": [
+        "awesome-list",
+        "deep-learning",
+        "densenet",
+        "highway-network",
+        "machine-learning",
+        "resnet",
+        "vin"
+      ]
     },
     "original_repository_sha": "54b3ba3a54857fe3d3b74d020ecd4224ecb50087",
     "enhanced_repository": "enhansome/enhansome-very-deep-learning",
