@@ -19,7 +19,7 @@
 
 ### Implementations
 
-1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,524 | 🐛 181 | 🌐 Python | 📅 2026-08-29
+1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,524 | 🐛 181 | 🌐 Python | 📅 2026-08-31
 
 ## Value Iteration Networks
 
@@ -35,7 +35,7 @@
 
 ### Papers
 
-* [Densely Connected Convolutional Networks (2016)](https://arxiv.org/abs/1608.06993) \[[original code](https://github.com/liuzhuang13/DenseNet) ⭐ 4,869 | 🐛 30 | 🌐 Lua | 📅 2024-01-09], introduces DenseNets and shows that it outperforms ResNets in CIFAR10 and 100 by a large margin (especially when not using data augmentation), while only requiring half the parameters. CVPR 2017 best paper.
+* [Densely Connected Convolutional Networks (2016)](https://arxiv.org/abs/1608.06993) \[[original code](https://github.com/liuzhuang13/DenseNet) ⭐ 4,870 | 🐛 30 | 🌐 Lua | 📅 2024-01-09], introduces DenseNets and shows that it outperforms ResNets in CIFAR10 and 100 by a large margin (especially when not using data augmentation), while only requiring half the parameters. CVPR 2017 best paper.
 
 ### Implementations
 
@@ -70,7 +70,7 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 198,088 | 🐛 3,004 | 🌐 C++ | 📅 2026-08-31
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 198,340 | 🐛 3,003 | 🌐 C++ | 📅 2026-09-01
 2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,576 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
