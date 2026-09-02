@@ -45,11 +45,11 @@
                 "id": 27082457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T18:32:25Z",
+                "last_commit": "2026-09-02T00:04:34Z",
                 "open_issues": 181,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7524,
+                "stars": 7525,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -405,7 +405,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3646,
+                "stars": 3647,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -451,7 +451,7 @@
                 "open_issues": 1,
                 "owner": "KaimingHe",
                 "repo": "resnet-1k-layers",
-                "stars": 937,
+                "stars": 938,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T10:16:38Z",
-                "open_issues": 3003,
+                "last_commit": "2026-09-02T09:51:20Z",
+                "open_issues": 3024,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 198340,
+                "stars": 198352,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:26:20.665Z",
+    "last_updated": "2026-09-02T09:53:48.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
