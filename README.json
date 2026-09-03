@@ -21,7 +21,7 @@
                 "open_issues": 95,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6477,
+                "stars": 6478,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,8 +517,8 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T09:51:20Z",
-                "open_issues": 3024,
+                "last_commit": "2026-09-03T09:58:28Z",
+                "open_issues": 3025,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
                 "stars": 198352,
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T09:53:48.408Z",
+    "last_updated": "2026-09-03T10:04:53.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
