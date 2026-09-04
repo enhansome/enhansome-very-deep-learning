@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T09:58:28Z",
-                "open_issues": 3025,
+                "last_commit": "2026-09-04T09:42:32Z",
+                "open_issues": 3079,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 198352,
+                "stars": 198800,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -954,7 +954,7 @@
                 "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:04:53.835Z",
+    "last_updated": "2026-09-04T09:55:41.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
