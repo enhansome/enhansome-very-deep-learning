@@ -405,7 +405,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3647,
+                "stars": 3648,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T09:42:32Z",
-                "open_issues": 3079,
+                "last_commit": "2026-09-05T09:14:05Z",
+                "open_issues": 3124,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 198800,
+                "stars": 198836,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 579,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9576,
+                "stars": 9575,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:55:41.546Z",
+    "last_updated": "2026-09-05T09:20:44.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",

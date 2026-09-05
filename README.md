@@ -58,7 +58,7 @@
 ### Papers
 
 * [Deep Residual Learning for Image Recognition (2015)](http://arxiv.org/abs/1512.03385) \[[original code](https://github.com/KaimingHe/deep-residual-networks) ⭐ 6,754 | 🐛 58 | 📅 2017-10-28], original paper introducing residual neural networks
-* [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) \[[original code](https://github.com/hujie-frank/SENet) ⭐ 3,647 | 🐛 16 | 🌐 Cuda | 📅 2019-02-25], introduces Squeeze-and-Excitation (SE) block, that adaptively recalibrates channel-wise feature responses. It achieved the 1st place on ILSVRC17.
+* [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) \[[original code](https://github.com/hujie-frank/SENet) ⭐ 3,648 | 🐛 16 | 🌐 Cuda | 📅 2019-02-25], introduces Squeeze-and-Excitation (SE) block, that adaptively recalibrates channel-wise feature responses. It achieved the 1st place on ILSVRC17.
 * [Wide Residual Networks (2016)](http://arxiv.org/abs/1605.07146) \[[orginal code](https://github.com/szagoruyko/wide-residual-networks) ⭐ 1,315 | 🐛 24 | 🌐 Lua | 📅 2019-08-20], studies wide residual neural networks and shows that making residual blocks wider outperforms deeper and thinner network architectures
 * [Identity Mappings in Deep Residual Networks (2016)](http://arxiv.org/abs/1603.05027) \[[original code](https://github.com/KaimingHe/resnet-1k-layers) ⭐ 938 | 🐛 1 | 🌐 Lua | 📅 2017-05-24], improving the original proposed residual units by reordering batchnorm and activation layers
 * [Deep Networks with Stochastic Depth (2016)](http://arxiv.org/abs/1603.09382) \[[original code](https://github.com/yueatsprograms/Stochastic_Depth) ⭐ 480 | 🐛 1 | 🌐 Lua | 📅 2018-08-13], dropout with residual layers as regularizer
@@ -70,8 +70,8 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 198,800 | 🐛 3,079 | 🌐 C++ | 📅 2026-09-04
-2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,576 | 🐛 579 | 🌐 Python | 📅 2024-05-06
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 198,836 | 🐛 3,124 | 🌐 C++ | 📅 2026-09-05
+2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,575 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
 5. ResNet in TensorFlow 0.9+ with pretrained caffe weights: [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archived
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
