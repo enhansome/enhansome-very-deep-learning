@@ -21,7 +21,7 @@
                 "open_issues": 95,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6479,
+                "stars": 6481,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -45,7 +45,7 @@
                 "id": 27082457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T05:04:33Z",
+                "last_commit": "2026-09-08T02:34:26Z",
                 "open_issues": 181,
                 "owner": "HIPS",
                 "repo": "autograd",
@@ -172,7 +172,7 @@
                 "open_issues": 7,
                 "owner": "bamos",
                 "repo": "densenet.pytorch",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "deep-learning",
                   "densenet",
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T10:40:08Z",
-                "open_issues": 3137,
+                "last_commit": "2026-09-08T09:55:20Z",
+                "open_issues": 3180,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 199320,
+                "stars": 199336,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -954,7 +954,7 @@
                 "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3857,
+                "stars": 3858,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:43:13.339Z",
+    "last_updated": "2026-09-08T10:04:54.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",

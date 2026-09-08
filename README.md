@@ -14,12 +14,12 @@
 
 ### Papers
 
-* [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366) [\[original code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,479 | 🐛 95 | 🌐 Python | 📅 2025-04-04, introduces several ODENets such as continuous-depth residual networks and continuous-time latent variable models. The paper also constructs continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, the authors show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models. NIPS 2018 best paper.
+* [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366) [\[original code\]](https://github.com/rtqichen/torchdiffeq) ⭐ 6,481 | 🐛 95 | 🌐 Python | 📅 2025-04-04, introduces several ODENets such as continuous-depth residual networks and continuous-time latent variable models. The paper also constructs continuous normalizing flows, a generative model that can train by maximum likelihood, without partitioning or ordering the data dimensions. For training, the authors show how to scalably backpropagate through any ODE solver, without access to its internal operations. This allows end-to-end training of ODEs within larger models. NIPS 2018 best paper.
 * [Augmented Neural ODEs (2019)](https://arxiv.org/abs/1904.01681), neural ODEs preserve topology, thus their learned flows can't intersect with each other. Therefore some functions can't be learned. Augmented NODEs improve upon this by adding an additional dimension to learn simpler flows.
 
 ### Implementations
 
-1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,527 | 🐛 181 | 🌐 Python | 📅 2026-09-07
+1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,527 | 🐛 181 | 🌐 Python | 📅 2026-09-08
 
 ## Value Iteration Networks
 
@@ -41,7 +41,7 @@
 
 1. [Keras Implementation](https://github.com/tdeboissiere/DeepLearningImplementations/tree/master/DenseNet) ⭐ 1,812 | 🐛 24 | 🌐 Python | 📅 2020-10-23 by tdeboissiere.
 2. [Lasagne Implementation](https://github.com/Lasagne/Recipes/tree/master/papers/densenet) ⭐ 935 | 🐛 37 | 🌐 Python | 📅 2022-10-15 by Jan Schlüter.
-3. [PyTorch Implementation](https://github.com/bamos/densenet.pytorch) ⭐ 839 | 🐛 7 | 🌐 Python | 📅 2018-08-16
+3. [PyTorch Implementation](https://github.com/bamos/densenet.pytorch) ⭐ 840 | 🐛 7 | 🌐 Python | 📅 2018-08-16
 4. [Tensorflow Implementation](https://github.com/YixuanLi/densenet-tensorflow) ⭐ 563 | 🐛 10 | 🌐 Python | 📅 2019-05-07 by Yixuan Li.
 5. [PyTorch Implementation (including BC structures)](https://github.com/andreasveit/densenet-pytorch) ⭐ 486 | 🐛 6 | 🌐 Python | 📅 2018-02-28 by Andreas Veit
 6. Authors' [Caffe Implementation](https://github.com/liuzhuang13/DenseNetCaffe) ⭐ 267 | 🐛 9 | 🌐 Python | 📅 2017-08-11
@@ -70,7 +70,7 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 199,320 | 🐛 3,137 | 🌐 C++ | 📅 2026-09-07
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 199,336 | 🐛 3,180 | 🌐 C++ | 📅 2026-09-08
 2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,576 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
@@ -101,7 +101,7 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ### Implementations
 
-1. Lasagne: [code](https://github.com/Lasagne/Lasagne/blob/highway_example/examples/Highway%20Networks.ipynb) ⭐ 3,857 | 🐛 139 | 🌐 Python | 📅 2022-03-26
+1. Lasagne: [code](https://github.com/Lasagne/Lasagne/blob/highway_example/examples/Highway%20Networks.ipynb) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26
 2. Torch: [code](https://github.com/yoonkim/lstm-char-cnn/blob/master/model/HighwayMLP.lua) ⭐ 837 | 🐛 15 | 🌐 Lua | 📅 2016-08-24
 3. Caffe: [code](https://github.com/flukeskywalker/highway-networks) ⭐ 96 | 🐛 2 | 🌐 C++ | 📅 2015-09-20
 4. Tensorflow: [blog](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.r2msk226f), [code](https://github.com/fomorians/highway-cnn) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2016-09-18
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
