@@ -49,7 +49,7 @@
                 "open_issues": 181,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7527,
+                "stars": 7528,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -98,7 +98,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4870,
+                "stars": 4869,
                 "topics": [
                   "deep-learning"
                 ]
@@ -384,7 +384,7 @@
                 "open_issues": 58,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6754,
+                "stars": 6753,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T09:55:20Z",
-                "open_issues": 3180,
+                "last_commit": "2026-09-09T10:04:50Z",
+                "open_issues": 3121,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 199336,
+                "stars": 199341,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -608,7 +608,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2360,
+                "stars": 2359,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:04:54.563Z",
+    "last_updated": "2026-09-09T10:06:19.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
