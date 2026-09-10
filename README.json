@@ -46,7 +46,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T02:34:26Z",
-                "open_issues": 181,
+                "open_issues": 183,
                 "owner": "HIPS",
                 "repo": "autograd",
                 "stars": 7528,
@@ -384,7 +384,7 @@
                 "open_issues": 58,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6753,
+                "stars": 6752,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T10:04:50Z",
-                "open_issues": 3121,
+                "last_commit": "2026-09-10T09:50:58Z",
+                "open_issues": 3127,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 199341,
+                "stars": 199317,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T10:06:19.052Z",
+    "last_updated": "2026-09-10T10:01:53.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
