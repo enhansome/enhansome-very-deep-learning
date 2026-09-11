@@ -46,7 +46,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T02:34:26Z",
-                "open_issues": 183,
+                "open_issues": 184,
                 "owner": "HIPS",
                 "repo": "autograd",
                 "stars": 7528,
@@ -493,7 +493,7 @@
                 "open_issues": 5,
                 "owner": "renmengye",
                 "repo": "revnet-public",
-                "stars": 362,
+                "stars": 363,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T09:50:58Z",
-                "open_issues": 3127,
+                "last_commit": "2026-09-11T09:54:48Z",
+                "open_issues": 3104,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 199317,
+                "stars": 199706,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -954,7 +954,7 @@
                 "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T10:01:53.081Z",
+    "last_updated": "2026-09-11T09:59:51.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",

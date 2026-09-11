@@ -19,7 +19,7 @@
 
 ### Implementations
 
-1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,528 | 🐛 183 | 🌐 Python | 📅 2026-09-08
+1. Authors [Autograd Implementation](https://github.com/HIPS/autograd/blob/master/examples/ode_net.py) ⭐ 7,528 | 🐛 184 | 🌐 Python | 📅 2026-09-08
 
 ## Value Iteration Networks
 
@@ -62,7 +62,7 @@
 * [Wide Residual Networks (2016)](http://arxiv.org/abs/1605.07146) \[[orginal code](https://github.com/szagoruyko/wide-residual-networks) ⭐ 1,315 | 🐛 24 | 🌐 Lua | 📅 2019-08-20], studies wide residual neural networks and shows that making residual blocks wider outperforms deeper and thinner network architectures
 * [Identity Mappings in Deep Residual Networks (2016)](http://arxiv.org/abs/1603.05027) \[[original code](https://github.com/KaimingHe/resnet-1k-layers) ⭐ 938 | 🐛 1 | 🌐 Lua | 📅 2017-05-24], improving the original proposed residual units by reordering batchnorm and activation layers
 * [Deep Networks with Stochastic Depth (2016)](http://arxiv.org/abs/1603.09382) \[[original code](https://github.com/yueatsprograms/Stochastic_Depth) ⭐ 480 | 🐛 1 | 🌐 Lua | 📅 2018-08-13], dropout with residual layers as regularizer
-* [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585v1) \[[code](https://github.com/renmengye/revnet-public) ⭐ 362 | 🐛 5 | 🌐 Python | 📅 2018-06-19] constructs reversible residual layers (no need to store activations) and surprisingly finds out that reversible layers don't impact final performance.
+* [The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/abs/1707.04585v1) \[[code](https://github.com/renmengye/revnet-public) ⭐ 363 | 🐛 5 | 🌐 Python | 📅 2018-06-19] constructs reversible residual layers (no need to store activations) and surprisingly finds out that reversible layers don't impact final performance.
 * [Aggregated Residual Transformation for Deep Neural Networks (2016)](https://arxiv.org/abs/1611.05431), introduces ResNeXt, which aggregates a set of transformations within a a res-block. It achieved the 2nd place on ILSVRC16.
 * [Residual Networks of Residual Networks: Multilevel Residual Networks (2016)](https://arxiv.org/abs/1608.02908), adds multi-level hierarchical residual mappings and shows that this improves the accuracy of deep networks
 * [Swapout: Learning an ensemble of deep architectures (2016)](https://arxiv.org/pdf/1605.06465v1.pdf), improving accuracy by randomly applying dropout, skipforward and residual units per layer
@@ -70,7 +70,7 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 199,317 | 🐛 3,127 | 🌐 C++ | 📅 2026-09-10
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 199,706 | 🐛 3,104 | 🌐 C++ | 📅 2026-09-11
 2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,576 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
@@ -101,7 +101,7 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ### Implementations
 
-1. Lasagne: [code](https://github.com/Lasagne/Lasagne/blob/highway_example/examples/Highway%20Networks.ipynb) ⭐ 3,858 | 🐛 139 | 🌐 Python | 📅 2022-03-26
+1. Lasagne: [code](https://github.com/Lasagne/Lasagne/blob/highway_example/examples/Highway%20Networks.ipynb) ⭐ 3,857 | 🐛 139 | 🌐 Python | 📅 2022-03-26
 2. Torch: [code](https://github.com/yoonkim/lstm-char-cnn/blob/master/model/HighwayMLP.lua) ⭐ 837 | 🐛 15 | 🌐 Lua | 📅 2016-08-24
 3. Caffe: [code](https://github.com/flukeskywalker/highway-networks) ⭐ 96 | 🐛 2 | 🌐 C++ | 📅 2015-09-20
 4. Tensorflow: [blog](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.r2msk226f), [code](https://github.com/fomorians/highway-cnn) ⭐ 56 | 🐛 0 | 🌐 Python | 📅 2016-09-18
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
