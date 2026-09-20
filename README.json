@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6482,
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T08:42:55Z",
-                "open_issues": 3189,
+                "last_commit": "2026-09-20T05:48:35Z",
+                "open_issues": 3203,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200177,
+                "stars": 200200,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:42:40.175Z",
+    "last_updated": "2026-09-20T10:05:42.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
