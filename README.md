@@ -35,7 +35,7 @@
 
 ### Papers
 
-* [Densely Connected Convolutional Networks (2016)](https://arxiv.org/abs/1608.06993) \[[original code](https://github.com/liuzhuang13/DenseNet) ⭐ 4,869 | 🐛 30 | 🌐 Lua | 📅 2024-01-09], introduces DenseNets and shows that it outperforms ResNets in CIFAR10 and 100 by a large margin (especially when not using data augmentation), while only requiring half the parameters. CVPR 2017 best paper.
+* [Densely Connected Convolutional Networks (2016)](https://arxiv.org/abs/1608.06993) \[[original code](https://github.com/liuzhuang13/DenseNet) ⭐ 4,868 | 🐛 30 | 🌐 Lua | 📅 2024-01-09], introduces DenseNets and shows that it outperforms ResNets in CIFAR10 and 100 by a large margin (especially when not using data augmentation), while only requiring half the parameters. CVPR 2017 best paper.
 
 ### Implementations
 
@@ -57,7 +57,7 @@
 
 ### Papers
 
-* [Deep Residual Learning for Image Recognition (2015)](http://arxiv.org/abs/1512.03385) \[[original code](https://github.com/KaimingHe/deep-residual-networks) ⭐ 6,755 | 🐛 59 | 📅 2017-10-28], original paper introducing residual neural networks
+* [Deep Residual Learning for Image Recognition (2015)](http://arxiv.org/abs/1512.03385) \[[original code](https://github.com/KaimingHe/deep-residual-networks) ⭐ 6,756 | 🐛 59 | 📅 2017-10-28], original paper introducing residual neural networks
 * [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507) \[[original code](https://github.com/hujie-frank/SENet) ⭐ 3,650 | 🐛 16 | 🌐 Cuda | 📅 2019-02-25], introduces Squeeze-and-Excitation (SE) block, that adaptively recalibrates channel-wise feature responses. It achieved the 1st place on ILSVRC17.
 * [Wide Residual Networks (2016)](http://arxiv.org/abs/1605.07146) \[[orginal code](https://github.com/szagoruyko/wide-residual-networks) ⭐ 1,315 | 🐛 24 | 🌐 Lua | 📅 2019-08-20], studies wide residual neural networks and shows that making residual blocks wider outperforms deeper and thinner network architectures
 * [Identity Mappings in Deep Residual Networks (2016)](http://arxiv.org/abs/1603.05027) \[[original code](https://github.com/KaimingHe/resnet-1k-layers) ⭐ 938 | 🐛 1 | 🌐 Lua | 📅 2017-05-24], improving the original proposed residual units by reordering batchnorm and activation layers
@@ -70,7 +70,7 @@
 
 ### Implementations
 
-1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 200,200 | 🐛 3,203 | 🌐 C++ | 📅 2026-09-20
+1. Tensorflow with skflow, with MNIST: [code](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/skflow/resnet.py) ⭐ 200,219 | 🐛 3,232 | 🌐 C++ | 📅 2026-09-21
 2. Tensorflow with tflearn, with CIFAR-10 and MNIST: [code](https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py) ⭐ 9,575 | 🐛 579 | 🌐 Python | 📅 2024-05-06
 3. Neon, Preactivation layer implementation: [code](https://github.com/NervanaSystems/neon/blob/master/examples/cifar10_msra.py) ⚠️ Archived
 4. Torch by Facebook AI Research (FAIR), with **training code in Torch and pre-trained ResNet-18/34/50/101 models for ImageNet**: [blog](http://torch.ch/blog/2016/02/04/resnets.html), [code](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
@@ -81,7 +81,7 @@
 9. Neon, CIFAR-10, with pre-trained ResNet-32 to ResNet-110 models, training code, and curves: [code](https://github.com/NervanaSystems/ModelZoo/tree/master/ImageClassification/CIFAR10/DeepResNet) ⚠️ Archived
 10. A winning entry in Kaggle's right whale recognition challenge: [blog](http://blog.kaggle.com/2016/02/04/noaa-right-whale-recognition-winners-interview-2nd-place-felix-lau/), [code](https://github.com/felixlaumon/kaggle-right-whale) ⭐ 173 | 🐛 2 | 🌐 Python | 📅 2016-04-16
 11. Stochastic dropout in Keras: [code](https://github.com/dblN/stochastic_depth_keras) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2020-07-21
-12. Wide Residual Networks in Keras: [code](https://github.com/asmith26/wide_resnets_keras) ⭐ 138 | 🐛 6 | 🌐 Python | 📅 2024-01-18
+12. Wide Residual Networks in Keras: [code](https://github.com/asmith26/wide_resnets_keras) ⭐ 139 | 🐛 6 | 🌐 Python | 📅 2024-01-18
 13. Ladder Network for Semi-Supervised Learning in Keras : [code](https://github.com/divamgupta/ladder_network_keras) ⭐ 99 | 🐛 6 | 🌐 Python | 📅 2021-04-30
 14. ResNet in Chainer: [code](https://github.com/yasunorikudo/chainer-ResNet) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2017-07-27
 15. Stochastic dropout in Chainer: [code](https://github.com/yasunorikudo/chainer-ResDrop) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2016-04-11
@@ -126,4 +126,4 @@ In addition, this [code](https://github.com/ry/tensorflow-resnet) ⚠️ Archive
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
