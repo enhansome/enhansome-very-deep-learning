@@ -128,7 +128,7 @@
                 "open_issues": 24,
                 "owner": "tdeboissiere",
                 "repo": "DeepLearningImplementations",
-                "stars": 1812,
+                "stars": 1811,
                 "topics": [
                   "deep-learning-papers"
                 ]
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T10:14:02Z",
-                "open_issues": 3346,
+                "last_commit": "2026-09-24T10:29:23Z",
+                "open_issues": 3347,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200257,
+                "stars": 200273,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T10:16:31.104Z",
+    "last_updated": "2026-09-24T10:30:29.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
