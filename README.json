@@ -49,7 +49,7 @@
                 "open_issues": 188,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7532,
+                "stars": 7533,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T10:29:23Z",
-                "open_issues": 3347,
+                "last_commit": "2026-09-25T10:26:57Z",
+                "open_issues": 3315,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200273,
+                "stars": 200301,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 579,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9573,
+                "stars": 9572,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:30:29.555Z",
+    "last_updated": "2026-09-25T10:33:10.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
