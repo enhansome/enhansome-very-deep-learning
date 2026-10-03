@@ -21,7 +21,7 @@
                 "open_issues": 100,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6484,
+                "stars": 6485,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Authors Autograd Implementation",
-              "description": null,
+              "description": "HIPS/autograd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -151,7 +151,7 @@
                 "open_issues": 37,
                 "owner": "Lasagne",
                 "repo": "Recipes",
-                "stars": 936,
+                "stars": 937,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -159,7 +159,7 @@
             {
               "node_type": "item",
               "title": "PyTorch Implementation",
-              "description": null,
+              "description": "bamos/densenet.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -229,7 +229,7 @@
             {
               "node_type": "item",
               "title": "Authors' Caffe Implementation",
-              "description": null,
+              "description": "liuzhuang13/DenseNetCaffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -316,7 +316,7 @@
             {
               "node_type": "item",
               "title": "Authors' more memory-efficient Torch Implementation",
-              "description": ".",
+              "description": "gaohuang/DenseNet_lite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -384,7 +384,7 @@
                 "open_issues": 59,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6763,
+                "stars": 6762,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "Tensorflow with skflow, with MNIST: code",
-              "description": null,
+              "description": "tensorflow/tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T10:15:28Z",
-                "open_issues": 3238,
+                "last_commit": "2026-10-03T04:18:42Z",
+                "open_issues": 3242,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200658,
+                "stars": 200668,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "Tensorflow with tflearn, with CIFAR-10 and MNIST: code",
-              "description": null,
+              "description": "tflearn/tflearn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -566,7 +566,7 @@
             {
               "node_type": "item",
               "title": "Neon, Preactivation layer implementation: code",
-              "description": null,
+              "description": "NervanaSystems/neon",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -616,7 +616,7 @@
             {
               "node_type": "item",
               "title": "ResNet in TensorFlow 0.9+ with pretrained caffe weights: code",
-              "description": null,
+              "description": "ry/tensorflow-resnet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -637,7 +637,7 @@
             {
               "node_type": "item",
               "title": "Lasagne, CIFAR-10, with ResNet-32 and ResNet-56 and training code: code",
-              "description": null,
+              "description": "Lasagne/Recipes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,7 +650,7 @@
                 "open_issues": 37,
                 "owner": "Lasagne",
                 "repo": "Recipes",
-                "stars": 936,
+                "stars": 937,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -658,7 +658,7 @@
             {
               "node_type": "item",
               "title": "Torch, CIFAR-10, with ResNet-20 to ResNet-110, training code, and curves: code",
-              "description": null,
+              "description": "gcr/torch-residual-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -679,7 +679,7 @@
             {
               "node_type": "item",
               "title": "ResNet in PyTorch: code",
-              "description": null,
+              "description": "ruotianluo/pytorch-resnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -700,7 +700,7 @@
             {
               "node_type": "item",
               "title": "Neon, CIFAR-10, with pre-trained ResNet-32 to ResNet-110 models, training code, and curves: code",
-              "description": null,
+              "description": "NervanaSystems/ModelZoo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -742,7 +742,7 @@
             {
               "node_type": "item",
               "title": "Stochastic dropout in Keras: code",
-              "description": null,
+              "description": "dblN/stochastic_depth_keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -763,7 +763,7 @@
             {
               "node_type": "item",
               "title": "Wide Residual Networks in Keras: code",
-              "description": null,
+              "description": "asmith26/wide_resnets_keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -784,7 +784,7 @@
             {
               "node_type": "item",
               "title": "Ladder Network for Semi-Supervised Learning in Keras : code",
-              "description": null,
+              "description": "divamgupta/ladder_network_keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -805,7 +805,7 @@
             {
               "node_type": "item",
               "title": "ResNet in Chainer: code",
-              "description": null,
+              "description": "yasunorikudo/chainer-ResNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,7 +829,7 @@
             {
               "node_type": "item",
               "title": "Stochastic dropout in Chainer: code",
-              "description": null,
+              "description": "yasunorikudo/chainer-ResDrop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "Lasagne: code",
-              "description": null,
+              "description": "Lasagne/Lasagne",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -954,7 +954,7 @@
                 "open_issues": 139,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3859,
+                "stars": 3858,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -967,7 +967,7 @@
             {
               "node_type": "item",
               "title": "Torch: code",
-              "description": null,
+              "description": "yoonkim/lstm-char-cnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -988,7 +988,7 @@
             {
               "node_type": "item",
               "title": "Caffe: code",
-              "description": null,
+              "description": "flukeskywalker/highway-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1030,7 +1030,7 @@
             {
               "node_type": "item",
               "title": "PyTorch: code",
-              "description": null,
+              "description": "c0nn3r/pytorch_highway_networks",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:20:46.523Z",
+    "last_updated": "2026-10-03T05:11:18.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
