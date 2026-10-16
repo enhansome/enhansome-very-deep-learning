@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 106,
+                "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6490,
@@ -46,7 +46,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-12T17:50:18Z",
-                "open_issues": 197,
+                "open_issues": 198,
                 "owner": "HIPS",
                 "repo": "autograd",
                 "stars": 7543,
@@ -151,7 +151,7 @@
                 "open_issues": 37,
                 "owner": "Lasagne",
                 "repo": "Recipes",
-                "stars": 938,
+                "stars": 937,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T10:13:06Z",
-                "open_issues": 3412,
+                "last_commit": "2026-10-16T10:01:28Z",
+                "open_issues": 3358,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200975,
+                "stars": 201060,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -650,7 +650,7 @@
                 "open_issues": 37,
                 "owner": "Lasagne",
                 "repo": "Recipes",
-                "stars": 938,
+                "stars": 937,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:17:19.279Z",
+    "last_updated": "2026-10-16T10:05:40.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
