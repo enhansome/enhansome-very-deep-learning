@@ -98,7 +98,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4871,
+                "stars": 4872,
                 "topics": [
                   "deep-learning"
                 ]
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T10:01:28Z",
+                "last_commit": "2026-10-17T09:30:29Z",
                 "open_issues": 3358,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201060,
+                "stars": 201073,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:05:40.687Z",
+    "last_updated": "2026-10-17T09:39:51.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
