@@ -21,7 +21,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6490,
+                "stars": 6491,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -49,7 +49,7 @@
                 "open_issues": 201,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7545,
+                "stars": 7547,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -384,7 +384,7 @@
                 "open_issues": 59,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6767,
+                "stars": 6766,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T10:33:37Z",
-                "open_issues": 3446,
+                "last_commit": "2026-10-22T10:30:37Z",
+                "open_issues": 3442,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201154,
+                "stars": 201180,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -548,7 +548,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-05-06T11:34:20Z",
-                "open_issues": 579,
+                "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
                 "stars": 9570,
@@ -951,7 +951,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2022-03-26T02:58:32Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
                 "stars": 3858,
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T10:34:28.119Z",
+    "last_updated": "2026-10-22T10:38:00.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
