@@ -21,7 +21,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6490,
+                "stars": 6491,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -49,7 +49,7 @@
                 "open_issues": 201,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7547,
+                "stars": 7548,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -384,7 +384,7 @@
                 "open_issues": 59,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6767,
+                "stars": 6769,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -405,7 +405,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3652,
+                "stars": 3653,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T10:29:15Z",
-                "open_issues": 3407,
+                "last_commit": "2026-10-24T08:40:34Z",
+                "open_issues": 3382,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201190,
+                "stars": 201212,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9570,
+                "stars": 9569,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:30:10.163Z",
+    "last_updated": "2026-10-24T09:46:55.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
