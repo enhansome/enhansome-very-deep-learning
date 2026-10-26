@@ -21,7 +21,7 @@
                 "open_issues": 107,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6492,
+                "stars": 6491,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -98,7 +98,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4872,
+                "stars": 4873,
                 "topics": [
                   "deep-learning"
                 ]
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T05:33:40Z",
-                "open_issues": 3400,
+                "last_commit": "2026-10-26T11:31:16Z",
+                "open_issues": 3412,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201235,
+                "stars": 201263,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9570,
+                "stars": 9571,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T10:07:54.879Z",
+    "last_updated": "2026-10-26T11:31:53.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
