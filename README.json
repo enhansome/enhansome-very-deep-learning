@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 107,
+                "open_issues": 109,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6492,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -45,8 +45,8 @@
                 "id": 27082457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T17:49:20Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-26T17:45:41Z",
+                "open_issues": 203,
                 "owner": "HIPS",
                 "repo": "autograd",
                 "stars": 7549,
@@ -384,7 +384,7 @@
                 "open_issues": 59,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6770,
+                "stars": 6772,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T11:31:16Z",
-                "open_issues": 3412,
+                "last_commit": "2026-10-27T10:50:23Z",
+                "open_issues": 3410,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201263,
+                "stars": 201289,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T11:31:53.904Z",
+    "last_updated": "2026-10-27T10:58:27.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
