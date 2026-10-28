@@ -21,7 +21,7 @@
                 "open_issues": 109,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6492,
+                "stars": 6491,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -384,7 +384,7 @@
                 "open_issues": 59,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6772,
+                "stars": 6771,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T10:50:23Z",
-                "open_issues": 3410,
+                "last_commit": "2026-10-28T11:37:17Z",
+                "open_issues": 3428,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201289,
+                "stars": 201272,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9571,
+                "stars": 9570,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -579,7 +579,7 @@
                 "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "deep-learning",
                   "fast",
@@ -608,7 +608,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2359,
+                "stars": 2358,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -954,7 +954,7 @@
                 "open_issues": 140,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3858,
+                "stars": 3857,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:58:27.447Z",
+    "last_updated": "2026-10-28T11:37:55.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
