@@ -45,11 +45,11 @@
                 "id": 27082457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-01T23:08:03Z",
+                "last_commit": "2026-11-02T17:57:39Z",
                 "open_issues": 208,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7550,
+                "stars": 7551,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -98,7 +98,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4873,
+                "stars": 4874,
                 "topics": [
                   "deep-learning"
                 ]
@@ -384,7 +384,7 @@
                 "open_issues": 59,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6773,
+                "stars": 6774,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T13:32:58Z",
-                "open_issues": 3477,
+                "last_commit": "2026-11-03T12:57:19Z",
+                "open_issues": 3484,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201265,
+                "stars": 201282,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -579,7 +579,7 @@
                 "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3857,
+                "stars": 3856,
                 "topics": [
                   "deep-learning",
                   "fast",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:49:46.484Z",
+    "last_updated": "2026-11-03T12:59:43.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
