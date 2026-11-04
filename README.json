@@ -46,10 +46,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-02T17:57:39Z",
-                "open_issues": 208,
+                "open_issues": 210,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7551,
+                "stars": 7552,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -405,7 +405,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3653,
+                "stars": 3654,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T12:57:19Z",
-                "open_issues": 3484,
+                "last_commit": "2026-11-04T12:45:57Z",
+                "open_issues": 3488,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201282,
+                "stars": 201296,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9568,
+                "stars": 9567,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -629,7 +629,7 @@
                 "open_issues": 38,
                 "owner": "ry",
                 "repo": "tensorflow-resnet",
-                "stars": 1664,
+                "stars": 1663,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:59:43.421Z",
+    "last_updated": "2026-11-04T13:15:43.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
