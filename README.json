@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 109,
+                "open_issues": 110,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6491,
@@ -384,7 +384,7 @@
                 "open_issues": 59,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6774,
+                "stars": 6776,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T12:45:57Z",
-                "open_issues": 3488,
+                "last_commit": "2026-11-05T13:24:12Z",
+                "open_issues": 3487,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201296,
+                "stars": 201315,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9567,
+                "stars": 9566,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:15:43.747Z",
+    "last_updated": "2026-11-05T13:28:45.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
