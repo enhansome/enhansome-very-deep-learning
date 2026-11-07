@@ -21,7 +21,7 @@
                 "open_issues": 110,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6492,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -49,7 +49,7 @@
                 "open_issues": 211,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7552,
+                "stars": 7553,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -221,7 +221,7 @@
                 "open_issues": 6,
                 "owner": "andreasveit",
                 "repo": "densenet-pytorch",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T13:13:08Z",
-                "open_issues": 3512,
+                "last_commit": "2026-11-07T10:36:17Z",
+                "open_issues": 3502,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201332,
+                "stars": 201376,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9566,
+                "stars": 9565,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -579,7 +579,7 @@
                 "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3856,
+                "stars": 3855,
                 "topics": [
                   "deep-learning",
                   "fast",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:13:26.385Z",
+    "last_updated": "2026-11-07T11:55:05.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
