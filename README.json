@@ -21,7 +21,7 @@
                 "open_issues": 110,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6492,
+                "stars": 6491,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -46,10 +46,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T21:03:04Z",
-                "open_issues": 213,
+                "open_issues": 219,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7553,
+                "stars": 7552,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -98,7 +98,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4875,
+                "stars": 4871,
                 "topics": [
                   "deep-learning"
                 ]
@@ -128,7 +128,7 @@
                 "open_issues": 24,
                 "owner": "tdeboissiere",
                 "repo": "DeepLearningImplementations",
-                "stars": 1812,
+                "stars": 1810,
                 "topics": [
                   "deep-learning-papers"
                 ]
@@ -197,7 +197,7 @@
                 "open_issues": 10,
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
-                "stars": 563,
+                "stars": 562,
                 "topics": [
                   "densenet",
                   "tensorflow"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T09:25:43Z",
-                "open_issues": 3528,
+                "last_commit": "2026-11-09T14:07:00Z",
+                "open_issues": 3434,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201394,
+                "stars": 201414,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9565,
+                "stars": 9562,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -579,7 +579,7 @@
                 "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3855,
+                "stars": 3853,
                 "topics": [
                   "deep-learning",
                   "fast",
@@ -954,7 +954,7 @@
                 "open_issues": 140,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3856,
+                "stars": 3855,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:11:11.385Z",
+    "last_updated": "2026-11-09T14:20:14.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
