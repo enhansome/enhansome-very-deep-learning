@@ -21,7 +21,7 @@
                 "open_issues": 110,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6491,
+                "stars": 6493,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -46,10 +46,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-09T17:41:35Z",
-                "open_issues": 231,
+                "open_issues": 236,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7552,
+                "stars": 7553,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -98,7 +98,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4871,
+                "stars": 4870,
                 "topics": [
                   "deep-learning"
                 ]
@@ -242,7 +242,7 @@
                 "open_issues": 9,
                 "owner": "liuzhuang13",
                 "repo": "DenseNetCaffe",
-                "stars": 268,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -384,7 +384,7 @@
                 "open_issues": 58,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6775,
+                "stars": 6776,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -405,7 +405,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3654,
+                "stars": 3653,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -430,7 +430,7 @@
                 "open_issues": 24,
                 "owner": "szagoruyko",
                 "repo": "wide-residual-networks",
-                "stars": 1315,
+                "stars": 1314,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -472,7 +472,7 @@
                 "open_issues": 1,
                 "owner": "yueatsprograms",
                 "repo": "Stochastic_Depth",
-                "stars": 481,
+                "stars": 482,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T13:44:43Z",
-                "open_issues": 3436,
+                "last_commit": "2026-11-11T12:55:25Z",
+                "open_issues": 3433,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201430,
+                "stars": 201506,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 580,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9562,
+                "stars": 9563,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -579,7 +579,7 @@
                 "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3853,
+                "stars": 3854,
                 "topics": [
                   "deep-learning",
                   "fast",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:45:24.681Z",
+    "last_updated": "2026-11-11T12:56:33.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
