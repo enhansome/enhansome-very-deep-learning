@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-04-04T01:06:00Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6495,
+                "stars": 6496,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T11:04:09Z",
-                "open_issues": 3439,
+                "last_commit": "2026-11-15T12:50:57Z",
+                "open_issues": 3462,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201594,
+                "stars": 201618,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 579,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9562,
+                "stars": 9561,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -579,7 +579,7 @@
                 "open_issues": 91,
                 "owner": "NervanaSystems",
                 "repo": "neon",
-                "stars": 3854,
+                "stars": 3853,
                 "topics": [
                   "deep-learning",
                   "fast",
@@ -954,7 +954,7 @@
                 "open_issues": 140,
                 "owner": "Lasagne",
                 "repo": "Lasagne",
-                "stars": 3855,
+                "stars": 3854,
                 "topics": [
                   "deep-learning-library",
                   "neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:29:43.664Z",
+    "last_updated": "2026-11-15T12:56:57.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
