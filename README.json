@@ -45,11 +45,11 @@
                 "id": 27082457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T17:41:35Z",
+                "last_commit": "2026-11-16T17:42:22Z",
                 "open_issues": 250,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7553,
+                "stars": 7554,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -98,7 +98,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4870,
+                "stars": 4871,
                 "topics": [
                   "deep-learning"
                 ]
@@ -128,7 +128,7 @@
                 "open_issues": 24,
                 "owner": "tdeboissiere",
                 "repo": "DeepLearningImplementations",
-                "stars": 1810,
+                "stars": 1809,
                 "topics": [
                   "deep-learning-papers"
                 ]
@@ -384,7 +384,7 @@
                 "open_issues": 58,
                 "owner": "KaimingHe",
                 "repo": "deep-residual-networks",
-                "stars": 6776,
+                "stars": 6777,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -493,7 +493,7 @@
                 "open_issues": 5,
                 "owner": "renmengye",
                 "repo": "revnet-public",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T13:57:17Z",
-                "open_issues": 3451,
+                "last_commit": "2026-11-17T14:49:19Z",
+                "open_issues": 3448,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201571,
+                "stars": 201717,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:59:19.553Z",
+    "last_updated": "2026-11-17T14:53:22.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
@@ -1075,7 +1075,7 @@
       "open_issues": 1,
       "owner": "daviddao",
       "repo": "awesome-very-deep-learning",
-      "stars": 455,
+      "stars": 456,
       "topics": [
         "awesome-list",
         "deep-learning",
