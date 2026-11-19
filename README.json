@@ -21,7 +21,7 @@
                 "open_issues": 113,
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6497,
+                "stars": 6498,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:42:14.544Z"
@@ -49,7 +49,7 @@
                 "open_issues": 250,
                 "owner": "HIPS",
                 "repo": "autograd",
-                "stars": 7558,
+                "stars": 7559,
                 "topics": [
                   "autograd",
                   "automatic-differentiation",
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T14:22:46Z",
-                "open_issues": 3471,
+                "last_commit": "2026-11-19T14:39:52Z",
+                "open_issues": 3442,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201639,
+                "stars": 201644,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:32:32.111Z",
+    "last_updated": "2026-11-19T14:40:29.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
