@@ -46,7 +46,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-16T17:42:22Z",
-                "open_issues": 250,
+                "open_issues": 249,
                 "owner": "HIPS",
                 "repo": "autograd",
                 "stars": 7557,
@@ -517,11 +517,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T14:05:29Z",
-                "open_issues": 3460,
+                "last_commit": "2026-11-21T13:25:37Z",
+                "open_issues": 3471,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201661,
+                "stars": 201666,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -551,7 +551,7 @@
                 "open_issues": 579,
                 "owner": "tflearn",
                 "repo": "tflearn",
-                "stars": 9560,
+                "stars": 9559,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -1063,7 +1063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T14:20:55.437Z",
+    "last_updated": "2026-11-21T13:41:59.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "♾A curated list of papers and code about very deep neural networks",
